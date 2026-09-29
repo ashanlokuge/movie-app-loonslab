@@ -2,7 +2,7 @@
 
 A React app for searching movies, seeing what's trending and keeping a list of favourites. Data comes from the [TMDb API](https://developer.themoviedb.org/docs).
 
-- Live demo: _add the Vercel / Netlify URL here_
+- Live demo: https://movie-app-loonslab.vercel.app/
 - Demo login: `demo` / `movies123`
 
 ## Running it locally
@@ -14,8 +14,8 @@ You'll need Node 18+ and a free TMDb API key.
 2. Install and add the key:
 
    ```bash
-   git clone <repo-url> movie-explorer
-   cd movie-explorer
+   git clone https://github.com/ashanlokuge/movie-app-loonslab.git
+   cd movie-app-loonslab
    npm install
    cp .env.example .env    # Windows: copy .env.example .env
    ```
