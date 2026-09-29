@@ -1,0 +1,9 @@
+{
+  "short_name": "Movie Explorer",
+  "name": "Movie Explorer – powered by TMDb",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0d1117",
+  "background_color": "#0d1117"
+}
